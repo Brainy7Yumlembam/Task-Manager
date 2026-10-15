@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Brand (Deep Modern Indigo) -->
+    <color name="primary">#4F46E5</color>
+    <color name="primary_dark">#4338CA</color>
+    <color name="primary_light">#EEF2FF</color>
+    <color name="primary_border">#C7D2FE</color>
+    <color name="accent">#6366F1</color>
+    
+    <!-- Base Neutrals -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F1F5F9</color>
+    <color name="card_stroke">#E2E8F0</color>
+    <color name="divider">#E2E8F0</color>
+    
+    <!-- Typography -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_muted">#94A3B8</color>
+    
+    <!-- Priorities -->
+    <color name="priority_high">#EF4444</color>
+    <color name="priority_high_bg">#FEF2F2</color>
+    <color name="priority_high_border">#FECACA</color>
+    
+    <color name="priority_medium">#D97706</color>
+    <color name="priority_medium_bg">#FFFBEB</color>
+    <color name="priority_medium_border">#FDE68A</color>
+    
+    <color name="priority_low">#059669</color>
+    <color name="priority_low_bg">#ECFDF5</color>
+    <color name="priority_low_border">#A7F3D0</color>
+    
+    <!-- Status Tints -->
+    <color name="completed_bg">#ECFDF5</color>
+    <color name="overdue_bg">#FEF2F2</color>
+    <color name="pending_bg">#FFFBEB</color>
+    
+    <!-- Dashboard Specific -->
+    <color name="dashboard_total">#4F46E5</color>
+    <color name="dashboard_total_bg">#EEF2FF</color>
+    <color name="dashboard_pending">#D97706</color>
+    <color name="dashboard_pending_bg">#FFFBEB</color>
+    <color name="dashboard_completed">#059669</color>
+    <color name="dashboard_completed_bg">#ECFDF5</color>
+    <color name="dashboard_overdue">#EF4444</color>
+    <color name="dashboard_overdue_bg">#FEF2F2</color>
+</resources>

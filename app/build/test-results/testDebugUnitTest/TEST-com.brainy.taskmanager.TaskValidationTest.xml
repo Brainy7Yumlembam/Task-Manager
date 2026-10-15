@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.brainy.taskmanager.TaskValidationTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-10-15T10:44:49" hostname="DESKTOP-50MV6SE" time="0.006">
+  <properties/>
+  <testcase name="reminderCalculation_accurateLeadTimeSubtracted" classname="com.brainy.taskmanager.TaskValidationTest" time="0.0"/>
+  <testcase name="taskTitle_blankValidation_fails" classname="com.brainy.taskmanager.TaskValidationTest" time="0.0"/>
+  <testcase name="reminderEligibility_completedTask_notEligible" classname="com.brainy.taskmanager.TaskValidationTest" time="0.0"/>
+  <testcase name="overdueCalculation_overdueDetection" classname="com.brainy.taskmanager.TaskValidationTest" time="0.0"/>
+  <testcase name="reminderEligibility_nullDueDate_notEligible" classname="com.brainy.taskmanager.TaskValidationTest" time="0.0"/>
+  <testcase name="reminderEligibility_pastReminderTime_notEligible" classname="com.brainy.taskmanager.TaskValidationTest" time="0.0"/>
+  <testcase name="reminderEligibility_disabledReminder_notEligible" classname="com.brainy.taskmanager.TaskValidationTest" time="0.0"/>
+  <testcase name="reminderEligibility_futureReminderTime_isEligible" classname="com.brainy.taskmanager.TaskValidationTest" time="0.001"/>
+  <testcase name="reminderCalculation_differentLeadTimes" classname="com.brainy.taskmanager.TaskValidationTest" time="0.003"/>
+  <testcase name="priorityEnum_defaultAndOrdering" classname="com.brainy.taskmanager.TaskValidationTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

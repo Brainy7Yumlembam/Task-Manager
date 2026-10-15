@@ -1,0 +1,43 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Soft background circle -->
+    <path
+        android:fillColor="#EEF2FF"
+        android:pathData="M60,10 A50,50 0 1,0 60,110 A50,50 0 1,0 60,10 Z" />
+    <!-- Modern clipboard / task sheet -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,32 h44 c3.31,0 6,2.69 6,6 v50 c0,3.31 -2.69,6 -6,6 H38 c-3.31,0 -6,-2.69 -6,-6 V38 c0,-3.31 2.69,-6 6,-6 Z" />
+    <!-- Clip at top -->
+    <path
+        android:fillColor="#C7D2FE"
+        android:pathData="M50,28 h20 c1.1,0 2,0.9 2,2 v4 c0,1.1 -0.9,2 -2,2 H50 c-1.1,0 -2,-0.9 -2,-2 v-4 c0,-1.1 0.9,-2 2,-2 Z" />
+    <!-- Task line 1 -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M44,48 h4 v4 h-4 Z" />
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M52,49 h24 c0.55,0 1,0.45 1,1 v0 c0,0.55 -0.45,1 -1,1 H52 c-0.55,0 -1,-0.45 -1,-1 v0 c0,-0.55 0.45,-1 1,-1 Z" />
+    <!-- Task line 2 -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M44,60 h4 v4 h-4 Z" />
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M52,61 h18 c0.55,0 1,0.45 1,1 v0 c0,0.55 -0.45,1 -1,1 H52 c-0.55,0 -1,-0.45 -1,-1 v0 c0,-0.55 0.45,-1 1,-1 Z" />
+    <!-- Task line 3 -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M44,72 h4 v4 h-4 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M52,73 h14 c0.55,0 1,0.45 1,1 v0 c0,0.55 -0.45,1 -1,1 H52 c-0.55,0 -1,-0.45 -1,-1 v0 c0,-0.55 0.45,-1 1,-1 Z" />
+    <!-- Sparkle at top right -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M88,26 L90,20 L92,26 L98,28 L92,30 L90,36 L88,30 L82,28 Z" />
+</vector>

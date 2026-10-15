@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-merged_res-40:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-main-42:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "com.brainy.taskmanager.app-merged_res-40:/layout_activity_add_edit_task.xml.flat",
+        "source": "com.brainy.taskmanager.app-main-42:/layout/activity_add_edit_task.xml"
+    },
+    {
+        "merged": "com.brainy.taskmanager.app-merged_res-40:/drawable_ic_warning_circle.xml.flat",
+        "source": "com.brainy.taskmanager.app-main-42:/drawable/ic_warning_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.brainy.taskmanager.app-merged_res-40:/drawable_ic_check_circle.xml.flat",
+        "source": "com.brainy.taskmanager.app-main-42:/drawable/ic_check_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-merged_res-40:\\drawable_spinner_background.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-main-42:\\drawable\\spinner_background.xml"
+    },
+    {
+        "merged": "com.brainy.taskmanager.app-merged_res-40:/drawable_ic_checkbox_checked.xml.flat",
+        "source": "com.brainy.taskmanager.app-main-42:/drawable/ic_checkbox_checked.xml"
+    },
+    {
+        "merged": "com.brainy.taskmanager.app-merged_res-40:/layout_item_task.xml.flat",
+        "source": "com.brainy.taskmanager.app-main-42:/layout/item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-merged_res-40:\\layout_activity_add_edit_task.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-main-42:\\layout\\activity_add_edit_task.xml"
+    },
+    {
+        "merged": "com.brainy.taskmanager.app-merged_res-40:/drawable_bg_badge_date.xml.flat",
+        "source": "com.brainy.taskmanager.app-main-42:/drawable/bg_badge_date.xml"
+    },
+    {
+        "merged": "com.brainy.taskmanager.app-merged_res-40:/drawable_spinner_background.xml.flat",
+        "source": "com.brainy.taskmanager.app-main-42:/drawable/spinner_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-merged_res-40:\\drawable_ic_notification.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-main-42:\\drawable\\ic_notification.xml"
+    },
+    {
+        "merged": "com.brainy.taskmanager.app-merged_res-40:/drawable_bg_badge_overdue.xml.flat",
+        "source": "com.brainy.taskmanager.app-main-42:/drawable/bg_badge_overdue.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-merged_res-40:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-main-42:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-merged_res-40:\\drawable_priority_badge_background.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-main-42:\\drawable\\priority_badge_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-merged_res-40:\\drawable_ic_empty_tasks.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-main-42:\\drawable\\ic_empty_tasks.xml"
+    },
+    {
+        "merged": "com.brainy.taskmanager.app-merged_res-40:/color_chip_text_selector.xml.flat",
+        "source": "com.brainy.taskmanager.app-main-42:/color/chip_text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-merged_res-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.brainy.taskmanager.app-merged_res-40:/color_chip_background_selector.xml.flat",
+        "source": "com.brainy.taskmanager.app-main-42:/color/chip_background_selector.xml"
+    },
+    {
+        "merged": "com.brainy.taskmanager.app-merged_res-40:/drawable_ic_checkbox_unchecked.xml.flat",
+        "source": "com.brainy.taskmanager.app-main-42:/drawable/ic_checkbox_unchecked.xml"
+    },
+    {
+        "merged": "com.brainy.taskmanager.app-merged_res-40:/drawable_selector_custom_checkbox.xml.flat",
+        "source": "com.brainy.taskmanager.app-main-42:/drawable/selector_custom_checkbox.xml"
+    },
+    {
+        "merged": "com.brainy.taskmanager.app-merged_res-40:/drawable_ic_clock.xml.flat",
+        "source": "com.brainy.taskmanager.app-main-42:/drawable/ic_clock.xml"
+    },
+    {
+        "merged": "com.brainy.taskmanager.app-merged_res-40:/color_chip_stroke_selector.xml.flat",
+        "source": "com.brainy.taskmanager.app-main-42:/color/chip_stroke_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-merged_res-40:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-main-42:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "com.brainy.taskmanager.app-merged_res-40:/layout_activity_main.xml.flat",
+        "source": "com.brainy.taskmanager.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.brainy.taskmanager.app-merged_res-40:/drawable_ic_pending_hourglass.xml.flat",
+        "source": "com.brainy.taskmanager.app-main-42:/drawable/ic_pending_hourglass.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-merged_res-40:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-main-42:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "com.brainy.taskmanager.app-merged_res-40:/drawable_ic_calendar.xml.flat",
+        "source": "com.brainy.taskmanager.app-main-42:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.brainy.taskmanager.app-merged_res-40:/drawable_ic_tasks_total.xml.flat",
+        "source": "com.brainy.taskmanager.app-main-42:/drawable/ic_tasks_total.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-merged_res-40:\\layout_item_task.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-main-42:\\layout\\item_task.xml"
+    },
+    {
+        "merged": "com.brainy.taskmanager.app-merged_res-40:/drawable_ic_empty_tasks_modern.xml.flat",
+        "source": "com.brainy.taskmanager.app-main-42:/drawable/ic_empty_tasks_modern.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-merged_res-40:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.4\\com.brainy.taskmanager.app-main-42:\\drawable\\ic_launcher_foreground.xml"
+    }
+]
