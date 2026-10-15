@@ -1,0 +1,3 @@
+com.brainy.taskmanager.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

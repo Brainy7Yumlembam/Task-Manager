@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.brainy.taskmanager.DateUtilsTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-10-15T10:44:47" hostname="DESKTOP-50MV6SE" time="0.065">
+  <properties/>
+  <testcase name="formatToDbDate_producesCorrectIsoFormat" classname="com.brainy.taskmanager.DateUtilsTest" time="0.019"/>
+  <testcase name="parseDbDate_validAndInvalid" classname="com.brainy.taskmanager.DateUtilsTest" time="0.002"/>
+  <testcase name="formatTaskDueDisplay_withOnlyDate" classname="com.brainy.taskmanager.DateUtilsTest" time="0.04"/>
+  <testcase name="parseUiDate_validAndInvalid" classname="com.brainy.taskmanager.DateUtilsTest" time="0.001"/>
+  <testcase name="formatToUiDate_producesCorrectDdMmmYyyyFormat" classname="com.brainy.taskmanager.DateUtilsTest" time="0.001"/>
+  <testcase name="formatDbDateToUiDate_convertsDirectly" classname="com.brainy.taskmanager.DateUtilsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

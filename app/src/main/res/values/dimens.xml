@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spacing -->
+    <dimen name="spacing_xxs">2dp</dimen>
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_lg">20dp</dimen>
+    <dimen name="spacing_xl">24dp</dimen>
+    <dimen name="spacing_xxl">32dp</dimen>
+    
+    <!-- Card Properties -->
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="card_corner_radius_lg">20dp</dimen>
+    <dimen name="card_elevation">1dp</dimen>
+    <dimen name="card_elevation_hover">3dp</dimen>
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="card_stroke_width">1dp</dimen>
+    
+    <!-- Typography -->
+    <dimen name="text_display">26sp</dimen>
+    <dimen name="text_heading">20sp</dimen>
+    <dimen name="text_subheading">15sp</dimen>
+    <dimen name="text_body">14sp</dimen>
+    <dimen name="text_caption">12sp</dimen>
+    <dimen name="text_badge">11sp</dimen>
+    <dimen name="text_dashboard_count">28sp</dimen>
+    
+    <!-- Components -->
+    <dimen name="icon_size">22dp</dimen>
+    <dimen name="icon_size_sm">16dp</dimen>
+    <dimen name="icon_size_dashboard">20dp</dimen>
+    <dimen name="button_height">52dp</dimen>
+    <dimen name="priority_badge_padding_h">10dp</dimen>
+    <dimen name="priority_badge_padding_v">4dp</dimen>
+    <dimen name="badge_radius">8dp</dimen>
+    <dimen name="chip_radius">20dp</dimen>
+    <dimen name="fab_margin">20dp</dimen>
+    <dimen name="fab_size">56dp</dimen>
+</resources>
